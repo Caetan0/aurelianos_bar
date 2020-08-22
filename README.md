@@ -1,4 +1,4 @@
-### Aurelianos Bar
+# Aurelianos Bar
 
 Projeto destinado as atividades da OPE da Faculdade Impacta de Tecnologia
 
